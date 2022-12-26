@@ -3,12 +3,12 @@
 <img align="right" height="300" width="350" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 <h1 align="center">
-Prinzipillo (https://github.com/prinzipillo)
+Prinzipillo
 
   
    <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Rick.;I'm+a+software+engineer+in+Cuba.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Rick.;I'm+a+software+engineer+in+Cuba.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 <h3> 🧏🏼 About Me </h3>
 
