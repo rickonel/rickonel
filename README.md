@@ -3,12 +3,12 @@
 <img align="right" height="300" width="350" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 <h1 align="center">
-Prinzipillo
+Rick Onel
 
   
    <h2 align="center">
     
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Rick.;I'm+a+software+engineer+in+Cuba.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Ricardo.;I'm+a+software+engineer+in+Cuba.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 <h3> 🧏🏼 About Me </h3>
 
@@ -21,8 +21,8 @@ Prinzipillo
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java 
-- 🧲 &nbsp; AI | Machine Learning | Data Mining | PLN  
+- 💻 &nbsp; Python | Java | HTML | CSS | JS | ReactJS
+- 🧲 &nbsp; AI | Machine Learning | Data Science | NLP  
 - 🛢 &nbsp; PostgreSQL | MongoDB
 - 🔧 &nbsp; Git | Postman API
 - ⚙️ &nbsp; Visual Studio Code
@@ -30,11 +30,11 @@ Prinzipillo
 
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/ricardo-onel-alfonso-ayala-96b997231/) 👨🏻‍💻
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/rickonel/) 👨🏻‍💻
  - Shoot Me an [Email](rickonel@icloud.com) 💌
 
 
 
 
 
- ⭐️ From [Prinzipillo](https://github.com/prinzipillo)
+ ⭐️ From [Rick Onel](https://github.com/rickonel)
