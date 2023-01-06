@@ -10,7 +10,7 @@ Rick Onel
     
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Ricardo.;I'm+a+software+engineer+in+Cuba.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
-<h3> 🧏🏼 About Me </h3>
+<h3> 🐱‍👤 About Me </h3>
 
 - 🧘🏼‍♂️ &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I studied software engineering at the Technological University of Havana "CUJAE".
