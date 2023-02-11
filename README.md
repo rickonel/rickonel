@@ -1,6 +1,6 @@
 # 𝗛i there👋🏼👨🏼‍💻
 
-<img align="right" height="300" width="350" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img align="right" height="200" width="250" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 <h1 align="center">
 Rick Onel
@@ -8,7 +8,7 @@ Rick Onel
   
    <h2 align="center">
     
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&center=true&width=250&lines=Welcome+to+my+Github+Page!;I'm+Ricardo.;I'm+a+software+engineer+and+web+developer,+specilize in+backend.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Ricardo.;I'm+a+software+engineer+and+web+developer+specilize in+backend.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 <h3> 🐱‍👤 About Me </h3>
 
