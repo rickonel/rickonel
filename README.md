@@ -8,7 +8,7 @@ Rick Onel
   
    <h2 align="center">
     
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Ricardo.;I'm+a+software+engineer+and+web+developer+specilize+in+backend.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Ricardo.;I'm+a+software+engineer;and+web+developer+specilize+in+backend.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 <h3> 🐱‍👤 About Me </h3>
 
